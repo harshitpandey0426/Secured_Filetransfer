@@ -1,6 +1,6 @@
 It is a secured file transmission code, which encrypts and decrypts chunks of a file using DES3 module, exchanging key with the help of Deffiehelmen key exchange algorithm.
 
-A class is used as a structre to store all necessary information to required for a file transmission
+A class is used as a structure to store all necessary information required for a file transmission
  
 To run:
 
